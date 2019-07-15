@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286806798864",
+    "firebase_url": "https://practiceexercisefbrvkt.firebaseio.com",
+    "project_id": "practiceexercisefbrvkt",
+    "storage_bucket": "practiceexercisefbrvkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286806798864:android:da180e0408222deb",
+        "android_client_info": {
+          "package_name": "com.ebartmedia.practiceexercisefbrvkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286806798864-dnfusmrit15cja137pvt5uh3visq5c6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebartmedia.practiceexercisefbrvkt",
+            "certificate_hash": "b8841158d35fb49bf947d5bc2ffca34472106401"
+          }
+        },
+        {
+          "client_id": "286806798864-7hc6v9b0l67a982od6mqo8p5h7k10qte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYCB90o3ub7a4klIOJTZBwr0UdCDi4O84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286806798864-7hc6v9b0l67a982od6mqo8p5h7k10qte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
